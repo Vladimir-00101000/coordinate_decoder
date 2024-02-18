@@ -1,0 +1,8 @@
+{
+  "API_KEY": "",
+  "HOST_ID": "localhost",
+  "USER_NAME": "root",
+  "PASSWORD": "",
+  "DB_NAME": "coordinate_mapping",
+  "VALUE_TO_DB": "[(55.75321, 37.619055), (38.870985, -77.056034), (-22.89169, -43.217589), (-35.308288, 149.124273)]"
+}
